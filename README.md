@@ -1,2 +1,2 @@
 # YAS
-migrate YAS projects from team to Github
+migrate YAS projects from team to github
